@@ -59,10 +59,8 @@ Para implantar o projeto em um sistema ativo, basta copiar todos os arquivos do 
 -MicroPython - a linguagem de programação usada
 -Raspberry Pi Pico - o microcontrolador utilizado
 -Bibliotecas do python:
-
- -
- -
-
+ -Ssd1306
+ 
 ### Analise de custo
 Lista de custos:
 
@@ -75,8 +73,7 @@ Lista de custos:
 - 1 Buzzer: R$ 2,48 cada.
 - 1 resistor: R$ 2,00 cada.
 - Componentes adicionais com baixo custo. Ex: Solda e Fios. R$ 5,00.
-- 
-- Estima-se que podemos vender cada unidade no valor de R$ X (Com uma margem de lucro de aproximadamente X%)
+- Estima-se que podemos vender cada unidade no valor de R$ 157,18 (Com uma margem de lucro de aproximadamente 10%)
 
 ## 📌 Versão
 
