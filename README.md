@@ -31,12 +31,13 @@ Os testes de ponta a ponta podem ser executados ao jogar os jogos de Tetris e Sp
 ### Instalação do Console
 Para instalar e executar corretamente o projeto de Pong em Micropython com Raspberry Pi Pico, é importante ter conhecimento sobre o esquema de pinos para conectar cada componente.
 
-Tela OLED: 
+Tela OLED: Tem que estar conectada aos GPIO14 SDA e GPIO15 SCL
 
-Botões de Movimento:
+Botões de Movimento: Tem que estar conectados ao GPIO1 até GPIO5, segundo o diagrama de blocos.
 
-Botão de Start:
+Botão A: Tem que estar conectado ao GPIO7.
 
+Botão B: Tem que estar conectado ao GPIO6.
 
 Certifique-se de que todas as conexões estejam corretas antes de prosseguir com a instalação das bibliotecas e do código do projeto.
 
