@@ -64,8 +64,11 @@ https://github.com/luckmigz/microcontroladores/assets/54560901/25c14e36-c4fa-482
 
 ### Feito com
 -MicroPython - a linguagem de programação usada
+
 -Raspberry Pi Pico - o microcontrolador utilizado
+
 -Bibliotecas do python:
+
  -Ssd1306
  
 ### Analise de custo
