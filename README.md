@@ -51,6 +51,10 @@ Para implantar o projeto em um sistema ativo, basta copiar todos os arquivos do 
 
 
 
+https://github.com/luckmigz/microcontroladores/assets/54560901/25c14e36-c4fa-482d-a7b1-7dd179b43818
+
+
+
 
 
 
