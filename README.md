@@ -90,7 +90,7 @@ Lista de custos:
 O projeto se encontra na Versão 1.0
 
 ## Criadores
--Larissa Navarro Pizarro     RA:19.02028-7
+-Larissa Navarro Pizarro     RA:19.02028-7 </br>
 -Lucas Miguel de Matos Negri RA:19.00386-2
 -Matheus Igino Machado       RA:20.01629-8
 -Vinicius Urias da Cruz      RA:20.00601-2
