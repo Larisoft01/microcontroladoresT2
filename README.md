@@ -5,6 +5,7 @@ Este projeto consiste na criação de um console portário que tenha os jogos de
 
 ### Esquema Eletrico
 
+![WhatsApp Image 2024-05-25 at 09 40 25](https://github.com/luckmigz/microcontroladores/assets/54560901/6e415620-7a3d-41e6-982f-65e82f091a9a)
 
 
 ### Diagrama de Blocos
