@@ -10,7 +10,8 @@ Este projeto consiste na criação de um console portário que tenha os jogos de
 
 ### Diagrama de Blocos
 
-![image](https://github.com/luckmigz/microcontroladores/assets/81933900/3eaa9669-8665-49dc-9943-b89a340eea16)
+![image](https://github.com/luckmigz/microcontroladores/assets/81933900/f83177d7-6a21-416e-8865-31775085df8e)
+
 
 
 ### Pré-Requisitos
