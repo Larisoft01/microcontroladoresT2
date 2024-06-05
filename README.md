@@ -56,7 +56,7 @@ https://github.com/luckmigz/microcontroladores/assets/81933900/1d9d8b40-5e6c-4ce
 
 
 
-https://github.com/luckmigz/microcontroladores/assets/81933900/1d9d8b40-5e6c-4ce2-9e69-9782a2bf6c30
+
 
 
 
