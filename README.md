@@ -13,6 +13,11 @@ Este projeto de microcontroladores consiste em criar um controle de Nintendinho 
 
 ![WhatsApp Image 2024-10-23 at 15 57 30](https://github.com/user-attachments/assets/a7983c0a-3a13-4052-8ac8-d92dbc97f297)
 
+### Video
+https://drive.google.com/file/d/1WXfO8pf4w4KsZtvXannWFPwM6hQLQ3xK/view?usp=sharing
+<br>
+![frip-frog.gif](https://github.com/Larisoft01/microcontroladoresT2/blob/main/frip-frog.gif)
+
 ### Pré-Requisitos
 
 - Ser portátil;
