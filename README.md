@@ -5,14 +5,13 @@ Este projeto de microcontroladores consiste em criar um controle de Nintendinho 
 
 ### Esquema Eletrico
 
-![WhatsApp Image 2024-05-25 at 09 40 25](https://github.com/luckmigz/microcontroladores/assets/54560901/6e415620-7a3d-41e6-982f-65e82f091a9a)
+
+![WhatsApp Image 2024-10-23 at 15 51 21](https://github.com/user-attachments/assets/71b44ef1-3b59-41ca-be84-11c8d2ff3b58)
 
 
 ### Diagrama de Blocos
 
-![image](https://github.com/luckmigz/microcontroladores/assets/81933900/f83177d7-6a21-416e-8865-31775085df8e)
-
-
+![WhatsApp Image 2024-10-23 at 15 57 30](https://github.com/user-attachments/assets/a7983c0a-3a13-4052-8ac8-d92dbc97f297)
 
 ### Pré-Requisitos
 
