@@ -1,4 +1,4 @@
-# Tetris e SpaceInvaders em MicroPython
+# Controle de Nintendinho
 
 Este projeto consiste na criação de um console portário que tenha os jogos de Tetris e SpaceInvaders utilizando o MicroPython em uma placa de desenvolvimento com suporte a MicroPython e uma tela OLED. O jogo contará com quatro botões para movimentar as peças/nave e mudar a seleção dos os jogos e dois botões auxiliares que são usados para atirar, selecionar o jogo e rodar a peça no Tetris.
 
